@@ -1,0 +1,4 @@
+Test6.txt - is getting modified, will b stashd!
+
+
+afahh
